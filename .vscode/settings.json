@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://lputfmsf:poEeIGfokjTt3wQGBnEXjfhJcVXoB5x1@bubble.db.elephantsql.com/lputfmsf",
+            "name": "thieves"
+        }
+    ]
+}
